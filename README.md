@@ -32,6 +32,13 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
     + `-l`: display in list format
     + `-a`: also show hidden files (file start with `.`)
 
+### Other useful commands and keys
++ `man`: see manual for commands
++ `ctrl`+`r`: search command history in bash
++ `ctrl`+`l`: `clear` the screen
++ `ctrl`+`d`: send EOF, can be used to close the current shell program
+
+
 ## Gitting Started
 
 ## Github
