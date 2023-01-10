@@ -114,7 +114,11 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 + add, commit, push
 + create a pull request for your branch to merge into main branch
 
+## Python
+Finally... Python is the main language we'll use for our project. Since most people have experience with Python we won't spend too much time on it. If you have no previous experience, you can use [this website](https://exercism.org/tracks/python) to learn (and also other languages!).
 
+### IPython
+[IPython](https://ipython.org/) is an [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) for Python. It's a very handy interactive environment for you to test and learn Python. Do checkout if you haven't.
 
 ## Useful Links
 + [EECS201 - Winter 2022](https://www.eecs.umich.edu/courses/eecs201/wn2022/) (better slides)
