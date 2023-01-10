@@ -72,6 +72,20 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 
 
 ## Github
+### Issues
+Issues let you track your work on GitHub, where development happens. I'll introduce some useful components in an issue.
+
++ Assignees - assign the task to someone!
+
+![image](https://user-images.githubusercontent.com/55869557/211592971-d364d4c8-1476-4a89-9aea-e37063481534.png)
+
++ Labels - define your task!
+
+![image](https://user-images.githubusercontent.com/55869557/211592793-181ad927-1756-4a7a-ad7f-888690962b0f.png)
+
++ Development - Link your working branch to the issue!
+
+![image](https://user-images.githubusercontent.com/55869557/211593068-25f30f40-bf05-412a-9552-bbcc40b613c0.png)
 
 ## Useful Links
 + [EECS201 - Winter 2022](https://www.eecs.umich.edu/courses/eecs201/wn2022/) (better slides)
