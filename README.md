@@ -40,6 +40,36 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 
 
 ## Gitting Started
+### Installation
++ Windows(WSL)
+  + inside WSL, run `sudo apt install git`
++ macOS
+  + install [homebrew](https://brew.sh/), a package manager for macOS
+  + run `brew install git`
++ Linux
+  + use your package manager
+
+
+### Basic commands
++ `git init`: initialize git repo
++ `git status`: check repo status
++ `git log`: show log
++ `git add`: stage files
++ `git checkout`: change location of `HEAD`
++ `git commit`: commit staged changes
+![image](https://user-images.githubusercontent.com/55869557/211577924-1324b8b3-3be7-4561-9daa-a69825789677.png)
+
+### Branching
++ `git branch`: show branches
++ `git branch <branch-name>`: create a new branch
++ `git checkout <branch-name>`: switch to another branch
+
+### Remotes
++ `git clone <URL>`: clone from a remote repo
++ `git remote -v`: will list your remotes
++ `git pull`: pull from remote for new changes
++ `git push`: send commits to the remote
+
 
 ## Github
 
