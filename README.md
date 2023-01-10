@@ -98,7 +98,7 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 + create an issue called **first issue - <your name>** in this repo
 + refer your issue in [Master issue list](https://github.com/UmichSIM/UmichSIM_Pragmatics/issues/1)
 + create a new branch in the `Development` tab
-+ in your branch, add your name (and perhaps a link) in the [Who finished this tutorial?](#who-finished-this-tutorial?) section.
++ in your branch, add your name (and perhaps a link) in the [Who finished this tutorial?](#who-finished-this-tutorial) section.
 + add, commit, push
 + create a pull request for your branch to merge into main branch
 
