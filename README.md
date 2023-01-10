@@ -49,6 +49,8 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 + Linux
   + use your package manager
 
+### Files status in git
+![image](https://user-images.githubusercontent.com/55869557/211577924-1324b8b3-3be7-4561-9daa-a69825789677.png)
 
 ### Basic commands
 + `git init`: initialize git repo
@@ -57,7 +59,8 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 + `git add`: stage files
 + `git checkout`: change location of `HEAD`
 + `git commit`: commit staged changes
-![image](https://user-images.githubusercontent.com/55869557/211577924-1324b8b3-3be7-4561-9daa-a69825789677.png)
+  + make sure your commit message is meaningful!
+![image](https://user-images.githubusercontent.com/55869557/211599023-888fa7f1-975b-4640-8c8a-7a914aa2b0af.png)
 
 ### Branching
 + `git branch`: show branches
@@ -95,7 +98,7 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 
 
 ### Do it yourself!
-+ create an issue called **first issue - <your name>** in this repo
++ create an issue called `first issue - [your name]` in this repo
 + refer your issue in [Master issue list](https://github.com/UmichSIM/UmichSIM_Pragmatics/issues/1)
 + create a new branch in the `Development` tab
 + in your branch, add your name (and perhaps a link) in the [Who finished this tutorial?](#who-finished-this-tutorial) section.
