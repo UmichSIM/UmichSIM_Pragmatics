@@ -95,6 +95,15 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 ![image](https://user-images.githubusercontent.com/55869557/211595194-e0a987ef-5bd3-4728-87e2-0d0264bc0e77.png)
 
 ### Pull Requests
+[Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) let you tell others about changes you've pushed to a branch in a repository on GitHub. It serve as a buffer for others to review your changes.
+
++ merge, squash, or rebase?
+  + `merge` - merge all commits in both branch and create another "merge commit" to solve possible conflicts
+  + `squash` - squash all incoming commits into a single commit and add to main branch
+  + `rebase` - add all incoming commits "linearly" into the main branch
+  + we prefer `squash` for a clean history
+
+![image](https://user-images.githubusercontent.com/55869557/211603260-daafcb8c-ae4a-4bb1-b7e3-75bfb0b98edb.png)
 
 
 ### Do it yourself!
