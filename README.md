@@ -73,7 +73,7 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 
 ## Github
 ### Issues
-Issues let you track your work on GitHub, where development happens. I'll introduce some useful components in an issue.
+[Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) let you track your work on GitHub, where development happens. I'll introduce some useful components in an issue.
 
 + Assignees - assign the task to someone!
 
@@ -87,6 +87,25 @@ Issues let you track your work on GitHub, where development happens. I'll introd
 
 ![image](https://user-images.githubusercontent.com/55869557/211593068-25f30f40-bf05-412a-9552-bbcc40b613c0.png)
 
++ issue link - refer to other issues/PRs here!
+
+![image](https://user-images.githubusercontent.com/55869557/211595194-e0a987ef-5bd3-4728-87e2-0d0264bc0e77.png)
+
+### Pull Requests
+
+
+### Do it yourself!
++ create an issue called **first issue - <your name>** in this repo
++ refer your issue in [Master issue list](https://github.com/UmichSIM/UmichSIM_Pragmatics/issues/1)
++ create a new branch in the `Development` tab
++ in your branch, add your name (and perhaps a link) in the [Who finished this tutorial?](#who-finished-this-tutorial?) section.
++ add, commit, push
++ create a pull request for your branch to merge into main branch
+
+
+
 ## Useful Links
 + [EECS201 - Winter 2022](https://www.eecs.umich.edu/courses/eecs201/wn2022/) (better slides)
 + [EECS201 - Fall 2022](https://www.eecs.umich.edu/courses/eecs201/fa2022/schedule) (better short videos)
+
+## Who finished this tutorial?
