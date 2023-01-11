@@ -60,7 +60,7 @@ Belonging to the family of "Unix Like" operating systems, macOS and Linux suppor
 + `git checkout`: change location of `HEAD`
 + `git commit`: commit staged changes
   + make sure your commit message is meaningful!
-![image](https://user-images.githubusercontent.com/55869557/211599023-888fa7f1-975b-4640-8c8a-7a914aa2b0af.png)
+  ![image](https://user-images.githubusercontent.com/55869557/211599023-888fa7f1-975b-4640-8c8a-7a914aa2b0af.png)
 
 ### Branching
 + `git branch`: show branches
@@ -128,4 +128,5 @@ Finally... Python is the main language we'll use for our project. Since most peo
 + Andy Yang
 + C.C
 + Fengyuan Hu
++ Hanxi Wan
 + Yuxuan Liu
