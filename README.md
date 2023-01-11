@@ -129,4 +129,5 @@ Finally... Python is the main language we'll use for our project. Since most peo
 + C.C
 + Fengyuan Hu
 + Hanxi Wan
++ Howard Yang
 + Yuxuan Liu
