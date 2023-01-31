@@ -126,7 +126,7 @@ Finally... Python is the main language we'll use for our project. Since most peo
 
 ## Who finished this tutorial?
 + Andy Yang
-+ C.C
++ `C.C`
 + Fengyuan Hu
 + Hanxi Wan
 + Howard Yang
