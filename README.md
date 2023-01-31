@@ -131,3 +131,4 @@ Finally... Python is the main language we'll use for our project. Since most peo
 + Hanxi Wan
 + Howard Yang
 + Yuxuan Liu
++ Aditi Locula
